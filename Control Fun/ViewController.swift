@@ -71,7 +71,7 @@ class ViewController: UIViewController {
                                         let cancelAction = UIAlertAction(title: "Phew",
                                                                          style: .cancel,
                                                                          handler: nil)
-                                        let controller2.addAction(cancelAction)
+                                        controller2.addAction(cancelAction)
                                         self.present(controller2, animated: true,
                                                      completion:  nil)
                                         
@@ -92,8 +92,6 @@ class ViewController: UIViewController {
         present(controller, animated: true, completion: nil)
     }
     
-    
-    
     @IBAction func toggleControls(_ sender: UISegmentedControl) {
         if sender.selectedSegmentIndex == 0 { // "Switches" is selected
             LeftSwitch.isHidden = false
@@ -104,7 +102,5 @@ class ViewController: UIViewController {
             RightSwitch.isHidden = true
             DoSomethingButton.isHidden = false
          }
-    
-    
     
 }
