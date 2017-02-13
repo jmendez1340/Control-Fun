@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "96D6A5A61E512F08003CFCEC"
+               BlueprintIdentifier = "0E41F7761E4BB5F100C12AAD"
                BuildableName = "Control Fun.app"
                BlueprintName = "Control Fun"
                ReferencedContainer = "container:Control Fun.xcodeproj">
@@ -32,7 +32,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "96D6A5BA1E512F0A003CFCEC"
+               BlueprintIdentifier = "0E41F78A1E4BB5F100C12AAD"
                BuildableName = "Control FunTests.xctest"
                BlueprintName = "Control FunTests"
                ReferencedContainer = "container:Control Fun.xcodeproj">
@@ -42,7 +42,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "96D6A5C51E512F0A003CFCEC"
+               BlueprintIdentifier = "0E41F7951E4BB5F100C12AAD"
                BuildableName = "Control FunUITests.xctest"
                BlueprintName = "Control FunUITests"
                ReferencedContainer = "container:Control Fun.xcodeproj">
@@ -52,7 +52,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "96D6A5A61E512F08003CFCEC"
+            BlueprintIdentifier = "0E41F7761E4BB5F100C12AAD"
             BuildableName = "Control Fun.app"
             BlueprintName = "Control Fun"
             ReferencedContainer = "container:Control Fun.xcodeproj">
@@ -75,7 +75,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "96D6A5A61E512F08003CFCEC"
+            BlueprintIdentifier = "0E41F7761E4BB5F100C12AAD"
             BuildableName = "Control Fun.app"
             BlueprintName = "Control Fun"
             ReferencedContainer = "container:Control Fun.xcodeproj">
@@ -94,7 +94,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "96D6A5A61E512F08003CFCEC"
+            BlueprintIdentifier = "0E41F7761E4BB5F100C12AAD"
             BuildableName = "Control Fun.app"
             BlueprintName = "Control Fun"
             ReferencedContainer = "container:Control Fun.xcodeproj">

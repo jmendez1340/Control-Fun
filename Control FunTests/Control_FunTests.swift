@@ -2,7 +2,7 @@
 //  Control_FunTests.swift
 //  Control FunTests
 //
-//  Created by Jason on 2/12/17.
+//  Created by Jason Mendez on 2/8/17.
 //  Copyright © 2017 Jason Mendez. All rights reserved.
 //
 
